@@ -1,0 +1,18 @@
+{
+  "name": "@astrojs/starter-kit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "^0.15.1",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "prettier": "^2.3.2",
+    "prettier-plugin-astro": "github:davycoe/prettier-plugin-astro",
+    "reset-css": "^5.0.1"
+  }
+}

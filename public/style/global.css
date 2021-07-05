@@ -1,0 +1,9 @@
+@import "reset-css";
+
+html {
+  font-size: 6.25%;
+  box-sizing: border-box;
+}
+body {
+  font-size: 1600%;
+}
